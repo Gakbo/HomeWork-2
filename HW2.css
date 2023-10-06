@@ -1,0 +1,120 @@
+    body {font-family: Arial, Helvetica, sans-serif;}
+
+    body {text-align: center;}
+
+
+    hr {width: 500px;}
+
+
+    #title {font-size: 36px;}
+
+    #title {font-weight: bold;}
+
+    #title {letter-spacing: 2px;}
+
+
+    #board {width: 350px;}
+
+    #board {height: 420px;}
+
+    #board {margin: 0 auto;}
+
+    #board {margin-top: 3px;}
+
+    #board {display: flex;}
+
+    #board {flex-wrap: wrap;}
+
+
+    /* Body of the game */
+    .tile {border: 2px solid lightgray;}
+        
+    .tile {width: 60px;}
+           
+    .tile { height: 60px;}
+                
+    .tile {margin: 2.5px;}
+
+    /* Text */
+    .tile { color: black;}
+        
+    .tile {font-size: 36px;}
+            
+    .tile {font-weight: bold;}
+                
+    .tile {display: flex;}
+                    
+    .tile {justify-content: center;}
+                        
+    .tile { align-items: center;}
+
+
+    .correct {background-color: #6AAA64;}
+    
+    .correct {color: white;}
+        
+    .correct { border-color: white;}
+
+
+    .present {background-color: #C9B458;}
+        
+    .present {color: white;}
+    
+    .present {border-color: white;}
+
+
+    .absent {background-color: #787C7E;}
+    
+    .absent {color: white;}
+    
+    .absent {border-color:white;}
+
+
+    .keyboard-row {width: 400px;}
+
+    .keyboard-row {margin: 0 auto;}
+           
+    .keyboard-row {display: flex;}
+    
+    .keyboard-row {flex-wrap: wrap;}
+
+
+    .key-tile {width: 36px;}
+    
+    .key-tile {height: 40px;}
+
+    .key-tile {margin: 1px;}
+
+    .key-tile {border: 1px solid lightgray;}
+
+    /* Text */
+    .key-tile {font-size: 20px;}
+       
+    .key-tile {font-weight: bold;}
+    
+    .key-tile {display: flex;}
+    
+    .key-tile { justify-content: center;}
+    
+    .key-tile {align-items: center;}
+
+
+    .enter-key-tile {width: 76px;}
+   
+    .enter-key-tile { height: 40px;}
+    
+    .enter-key-tile {margin: 1px;}
+    
+    .enter-key-tile {border: 1px solid lightgray;}
+
+    /* Text */
+    .enter-key-tile {font-size: 20px;}
+    
+    .enter-key-tile {font-weight: bold;}
+    
+    .enter-key-tile {display: flex;}
+    
+    .enter-key-tile {justify-content: center;}
+    
+    .enter-key-tile {align-items: center;}
+    
